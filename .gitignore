@@ -1,4 +1,6 @@
 .devcontainer
-tmp
-tmp.s
+*~
+*.o
+tmp*
+a.out
 9cc
